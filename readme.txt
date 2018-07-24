@@ -1,1 +1,1 @@
-this is a git readme file
+this file is about tp5 init
